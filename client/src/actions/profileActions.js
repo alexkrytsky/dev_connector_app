@@ -1,4 +1,4 @@
-import { PROFILE_LOADING, GET_PROFILE, GET_ERRORS, CLEAR_CURRENT_PROFILE } from './types';
+import { PROFILE_LOADING, GET_PROFILE, CLEAR_CURRENT_PROFILE } from './types';
 import axios from 'axios';
 
 
